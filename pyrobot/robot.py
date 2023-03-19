@@ -77,12 +77,13 @@ class PyRobot():
     def create_trade(self):
         pass
 
+    def create_stock_frame(self):
+        pass
+    
     def grab_current_quotes(self) -> dict:
         pass
 
     def grab_historical_prices(self) -> List[Dict]:
         pass
 
-    def create_stock_frame(self):
-        pass
 
